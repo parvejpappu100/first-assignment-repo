@@ -39,3 +39,27 @@
     font-size: 15px;
     font-weight: 400px;
 }
+.container{
+    margin: 130px 250px;
+    display: flex;
+    gap: 80px;
+}
+.description{
+    margin-top: 200px;
+}
+.failures-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.failures-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.check-line{
+    width: 349px;
+    height: 162px;
+    left: 853px;
+    top: 1416px;
+}
