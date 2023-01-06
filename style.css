@@ -3,7 +3,7 @@
 }
 /* Banner Style */
 .banner{
-    background-image: url("/images/banner/banner2.png");
+    background-image: url("images/banner/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 2000px;
