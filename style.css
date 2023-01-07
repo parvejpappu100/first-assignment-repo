@@ -1,12 +1,16 @@
 *{
     font-family: 'Work Sans';
 }
+/* remobe defult margin */
+body{
+    margin: 0px;
+}
 /* Banner Style */
 .banner{
     background-image: url("images/banner/banner2.png");
     background-repeat: no-repeat;
     background-size: cover;
-    
+    margin-top: -65px;
 }
 
 
