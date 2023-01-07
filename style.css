@@ -94,15 +94,13 @@
     background-image:url("images/gradient2.png") , url("images/watch.png");
     width: 1140px;
     height: 300px;
-    left: 230px;
-    top: 2216.3px;
 }
 
 .banner2-title{
     font-weight: 700;
     font-size: 40px;
     color: #FFFFFF;
-    padding: 60px 615px 24px 65px;
+    padding: 60px 615px 0px 65px;
 }
 /* Banner2 Button Style */
 .call-btn{
