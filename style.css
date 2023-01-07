@@ -64,3 +64,27 @@
     left: 853px;
     top: 1416px;
 }
+/* My plans Section */
+.my-plans{
+    margin: 0px 250px 130px 250px;
+    text-align: center;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+.plans{
+    display: flex;
+    gap: 85px;
+    padding: 0 155px 0 155px;
+}
+.plans-name{
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+.plans-description{
+    font-weight: 500;
+    font-size: 25px;
+}
